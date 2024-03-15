@@ -1,1 +1,1 @@
-Check the contents of the main file for errors.
+Check the contents of the main file for syntax errors.

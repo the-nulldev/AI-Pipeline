@@ -6,6 +6,6 @@ import json
 
 app = Flask(__name__)
 
-pp.route('/')
+pp.route('/
 def index():
     return render_template('index.html')
